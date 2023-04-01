@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Saumyamani-Bhardwaz&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saumyamani-Bhardwaz&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Saumyamani-Bhardwaz&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
