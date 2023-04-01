@@ -2,8 +2,8 @@
 
 "Respect People's Time If You Want Your Time To Be Respected."
 
-. 🌱 I’m currently learning MERN
-. 📫 How to reach me bhardwajsaumyamani@gmail.com
+-🌱 I’m currently learning MERN
+-📫 How to reach me bhardwajsaumyamani@gmail.com
 
 
 ## 🌐 Socials:
